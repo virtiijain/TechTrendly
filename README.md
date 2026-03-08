@@ -1,3 +1,7 @@
+```
+🚧 -------- IN PLANNING — STARTING SOON -------- 🚧
+```
+
 # 📊 JobTrend Analyzer
 
 > See which tech domains, languages, and skills are dominating the job market — year by year.
